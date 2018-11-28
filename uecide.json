@@ -1,0 +1,18 @@
+{
+    "name": "AudioFrequencyMeter",
+    "provides": "AudioFrequencyMeter.h",
+    "description": "Get the fundamental pitch of an audio signal",
+    "version": "1.0.3",
+    "maintainer": "Arduino <info@arduino.cc>",
+    "category": "Math",
+    "subcategory": "Signal Processing",
+    "family": "arm-samd",
+    "core": "arduino-samd",
+    "install": {
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "src": "/"
+    },
+    "readme": "README.adoc"
+}
